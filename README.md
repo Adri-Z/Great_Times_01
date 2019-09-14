@@ -46,3 +46,5 @@ Paso3. cómo realizar y confirmar cambios.
 Debajo del letrero de Commit changes, aparece un rectángulo que dice en letras grises: Update README.md , pero en la foto del tutorial, o guía, no le ponen el ".md " y no sé si yo debería ponerselo o no. 
 // Pffff!!!! que munga!!!! //
 
+Ammm.. al parecer decubrí que ahí solo va el titulo o nombre corto de la descripción de los cambios.
+
