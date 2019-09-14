@@ -25,19 +25,19 @@ No pienso que debo saber todo de Git antes de iniciar a programar en Python, per
 Vale. 
 -Luego de este pequeño discurso que me ha servido de desahogo, voy a continuar.
 
-En el totorial indican en el
+## En el totorial indican,
 Paso1. cómo hacer un repositorio, al mío le llamé : Great_Times_01 
 Paso2. cómo hacer una rama, a la mía le llamé : editando_readme
 Paso3. cómo realizar y confirmar cambios.
 
-Explican que en GitHub, 
+### Explican que en GitHub, 
 
-1.- Sobre las ramas:
+### 1.- Sobre las ramas:
 1.1.- Hacer una rama, es hacer una copia de lo que se tiene (es decir, de toda la rama completa), como tomar una foto instantanea, donde se puede detener el tiempo y uno sigue ahí jugando y modificado y arreglando cosas a una parte específica del código, mientras que, en tiempo real, por decirlo de alguna forma, en la rama "master" o el proyecto original, sigue existiendo (y el equipo de trabajo puede seguir haciendola más grande). 
 1.2.- A demás la rama master que se crea por default, cuando yo creo un repositorio, queda sin alterarse cuando yo creo una rama, y tampoco se altera por las modificaciones que yo haga en una rama, al menos no hasta que yo decida guardar los cambios, discutirlos con el equipo de trabajo y luego fusione la rama que cree con la rama master.
 1.3.- Yo entiendo que cuando se hace una rama, se crea un espacio para probar y jugar y corregir, sin distraer a los demás, hasta que uno ya tiene una pequeña mejora o un pequeña modificación lista para exponersela al equipo.
 
-2.- Sobre hacer y confirmar cambios / Hacer cambios y confirmarlos / Hacer COMMITS 
+### 2.- Sobre hacer y confirmar cambios / Hacer cambios y confirmarlos / Hacer COMMITS 
 2.1.- Solo dice que un commit siempre tiene un mensaje asociado. 
 2.2.- Yo lo diría así: un cambio realizado en una rama (o repositorio) siempre va a llevar escrito un titulo y una descripción de porqué se hizo ese cambio. Y ya. Es todo. 
 2.3.- Acá, en el ejemplo del tutorial pide ir a la rama, picarle al archivo REARME, luego al lapiz para editar, luego escribir algo en el código, para estar editando algo de verdad, luego poner una descripción con un título y ya. Darle a aceptar, o el botón equivalente. Comit changes, en este caso.
