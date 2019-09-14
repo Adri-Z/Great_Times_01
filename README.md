@@ -25,7 +25,7 @@ No pienso que debo saber todo de Git antes de iniciar a programar en Python, per
 Vale. 
 -Luego de este pequeño discurso que me ha servido de desahogo, voy a continuar.
 
-## En el totorial indican,
+## En el tutorial indican,
 Paso1. cómo hacer un repositorio, al mío le llamé : Great_Times_01 
 Paso2. cómo hacer una rama, a la mía le llamé : editando_readme
 Paso3. cómo realizar y confirmar cambios.
