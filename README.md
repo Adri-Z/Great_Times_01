@@ -42,7 +42,7 @@ Explican que en GitHub,
 2.2.- Yo lo diría así: un cambio realizado en una rama (o repositorio) siempre va a llevar escrito un titulo y una descripción de porqué se hizo ese cambio. Y ya. Es todo. 
 2.3.- Acá, en el ejemplo del tutorial pide ir a la rama, picarle al archivo REARME, luego al lapiz para editar, luego escribir algo en el código, para estar editando algo de verdad, luego poner una descripción con un título y ya. Darle a aceptar, o el botón equivalente. Comit changes, en este caso.
 
-##Duda
+## Duda.
 Debajo del letrero de Commit changes, aparece un rectángulo que dice en letras grises: Update README.md , pero en la foto del tutorial, o guía, no le ponen el ".md " y no sé si yo debería ponerselo o no. 
 // Pffff!!!! que munga!!!! //
 
