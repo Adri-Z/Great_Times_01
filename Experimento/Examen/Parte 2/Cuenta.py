@@ -1,6 +1,6 @@
 #CreadoPor: AIZCH
 #Fecha: 04/10/2019
-#Asunto: Crear la lase cuenta para crear un ejemplo de Banco con POO
+#Asunto: Crear la clase cuenta para crear un ejemplo de Banco con POO
 
 class Cuenta:
   
